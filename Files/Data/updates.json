@@ -1,1 +1,16 @@
-ffffffffffffffffffffffff
+{
+    "UpdateEntries": [
+        {
+            "Id": 1,
+            "Title": "Nihon Update",
+            "Description": "Added new script to game hub",
+            "Date": "11/27/21"
+        },
+        {
+            "Id": 2,
+            "Title": "Nihon Update",
+            "Description": "Added new script to game hub",
+            "Date": "11/27/21"
+        }
+    ]
+}
