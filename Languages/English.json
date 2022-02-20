@@ -1,0 +1,25 @@
+{
+   "Id":"English",
+   "Data":[
+      {
+         "Id":"Btn-Execute",
+         "Content":"Execute"
+      },
+      {
+         "Id":"Btn-Clear",
+         "Content":"Clear"
+      },
+      {
+         "Id":"Btn-Open",
+         "Content":"Open"
+      },
+      {
+         "Id":"Btn-Save",
+         "Content":"Save"
+      },
+      {
+         "Id":"Btn-Attach",
+         "Content":"Attach"
+      }
+   ]
+}
