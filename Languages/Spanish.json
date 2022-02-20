@@ -1,0 +1,25 @@
+{
+   "Id":"Spanish",
+   "Data":[
+      {
+         "Id":"Btn-Execute",
+         "Content":"Ejecutar"
+      },
+      {
+         "Id":"Btn-Clear",
+         "Content":"Borrar"
+      },
+      {
+         "Id":"Btn-Open",
+         "Content":"Abrir"
+      },
+      {
+         "Id":"Btn-Save",
+         "Content":"Salvar"
+      },
+      {
+         "Id":"Btn-Attach",
+         "Content":"Adjuntar"
+      }
+   ]
+}
