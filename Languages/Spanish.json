@@ -2,23 +2,23 @@
    "Id":"Spanish",
    "Data":[
       {
-         "Id":"Btn-Execute",
+         "Id":"ExecuteButton",
          "Content":"Ejecutar"
       },
       {
-         "Id":"Btn-Clear",
+         "Id":"ClearButton",
          "Content":"Borrar"
       },
       {
-         "Id":"Btn-Open",
+         "Id":"OpenFileButton",
          "Content":"Abrir"
       },
       {
-         "Id":"Btn-Save",
+         "Id":"SaveFileButton",
          "Content":"Salvar"
       },
       {
-         "Id":"Btn-Attach",
+         "Id":"AttachButton",
          "Content":"Adjuntar"
       }
    ]
