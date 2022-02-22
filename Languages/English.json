@@ -2,23 +2,23 @@
    "Id":"English",
    "Data":[
       {
-         "Id":"Btn-Execute",
+         "Id":"ExecuteButton",
          "Content":"Execute"
       },
       {
-         "Id":"Btn-Clear",
+         "Id":"ClearButton",
          "Content":"Clear"
       },
       {
-         "Id":"Btn-Open",
+         "Id":"OpenFileButton",
          "Content":"Open"
       },
       {
-         "Id":"Btn-Save",
+         "Id":"SaveFileButton",
          "Content":"Save"
       },
       {
-         "Id":"Btn-Attach",
+         "Id":"AttachButton",
          "Content":"Attach"
       }
    ]
