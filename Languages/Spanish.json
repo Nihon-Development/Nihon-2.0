@@ -7,7 +7,7 @@
       },
       {
          "Id":"ClearButton",
-         "Content":"Borrar"
+         "Content":"Limpiar"
       },
       {
          "Id":"OpenFileButton",
@@ -15,11 +15,11 @@
       },
       {
          "Id":"SaveFileButton",
-         "Content":"Salvar"
+         "Content":"Guardar"
       },
       {
          "Id":"AttachButton",
-         "Content":"Adjuntar"
+         "Content":"Injectar"
       }
    ]
 }
