@@ -20,6 +20,18 @@
       {
          "Id":"AttachButton",
          "Content":"Inyectar"
+      },
+      {
+         "Id":"AdvertiseButton",
+         "Content":"SomosDevs"
+      },
+      {
+         "Id":"CloseButton",
+         "Content":"Cerrar",
+      },
+      {
+         "Id":"MinimizeButton",
+         "Content":"Minimizar"
       }
    ]
 }
