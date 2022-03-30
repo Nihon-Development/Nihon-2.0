@@ -1,3 +1,5 @@
+## 📦 Nihon V2 - Config
+
 ```json
 {
 	"ConfigEntries": [{
