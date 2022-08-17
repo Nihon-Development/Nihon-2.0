@@ -1,7 +1,7 @@
 {
-	"Updated": true,
-	"Exploit-Version": "7.2.0",
-	"Roblox-Version": "version-dd069f433d43402d",
-	"Date": "8-18-2022",
-	"DateUnix": 1660779382
+	"updated": true,
+	"exploit_version": "7.2.0",
+	"roblox_version": "version-dd069f433d43402d",
+	"last_update": "8-18-2022",
+	"last_update_unix": 1660779382
 }
