@@ -1,14 +1,7 @@
 {
-	"ConfigEntries": [{
-			"Content": "Module Data",
-			"DownloadLink": "N/A",
-			"Version": "version-12605f3636bb47e7",
-			"Library": "N/A"
-		},
-		{
-			"Content": "Interface Data",
-			"DownloadLink": "https://wearedevs.net/d/Nihon",
-			"Version": "6.4.1"
-		}
-	]
+	"Updated": true,
+	"Exploit-Version": "7.2.0",
+	"Roblox-Version": "version-dd069f433d43402d",
+	"Date": "8-18-2022",
+	"DateUnix": 1660779382
 }
