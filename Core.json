@@ -1,8 +1,5 @@
 {
-	"ModuleDownload": "N/A",
-	"InjectorDownload": "N/A",
-	"DiscordInvite": "https://discord.gg/VNZ5ekXKh5",
-	"Version": "7.2.0",
-	"KillSwitch": false,
-	"Time": "2022-09-02T16:04:29.5693765-04:00"
+  "Hash": "7459c7541c3b1871a2f271e058363eaf",
+  "Version": 1,
+  "IsPatched": true
 }
